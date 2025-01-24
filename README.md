@@ -2,6 +2,8 @@
 
 ## Immerse Yourself in Block Breaker
 
+![](https://blockbreaker.fun/images/blockbreaker.png)
+
 Discover the excitement of Google Block Breaker, the most addictive brick-breaking game available! As the premier Block Breaker experience, this game combines classic arcade action with modern features. Smash through bricks, collect power-ups, and conquer challenging levels in this captivating Block Breaker adventure. With stunning graphics, responsive controls, and nostalgic gameplay, Google Block Breaker offers the perfect blend of casual fun and competitive challenge.
 
 ### Introduction to Google Block Breaker
