@@ -110,6 +110,12 @@ The increasing speed of the ball keeps me on my toes! It's challenging but not i
 Experience the ultimate brick-breaking challenge with Google Block Breaker today! Whether you're seeking casual entertainment or competitive gameplay, Block Breaker offers something for everyone. Download now and join millions of players worldwide in this exciting arcade adventure!
 
 
+There have some fun games:
+
+[Geometry Arrow](https://geometryarrow.com/)
+[Sprunki Scrunkly](https://scrunkly.io)
+
+
 <!--
 **googleblockbreaker/googleblockbreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
